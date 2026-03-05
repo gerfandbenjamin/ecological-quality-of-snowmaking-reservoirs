@@ -1,0 +1,30 @@
+"nom";"annee";"altitude";"volume";"surface";"profondeur";"orientation";"position";"fUsages";"conf";"pente_moy";"fPente";"ph_moy";"cond_moy";"temp_moy";"drain"
+"R1";2008;2212;403000;45900;16,8;"nord-est";"plat";"multi-usages";"total";12,25;"douce";8,82;137,425;15,725;"oui"
+"R2";2002;1800;52400;NA;NA;"nord-ouest";"bas_de_pente";"multi-usages";"partiel";20,6666666666667;"forte";8,12666666666667;609,333333333333;20,2333333333333;"non"
+"R3";2017;1800;120000;20000;11;"nord-ouest";"pente";"multi-usages";"total";15;"douce";8,07;609,5;20,15;"oui"
+"R4";2009;2300;64370;NA;12;"nord-est";"pente";"neige (AEP)";"aucun";27;"forte";8,23;145,35;12,4;"partiel"
+"R5";2001;1680;7700;NA;6,85;"nord-est";"pente";"neige (AEP)";"aucun";20,3333333333333;"forte";8,10333333333333;316,333333333333;19,8666666666667;"partiel"
+"R6";2010;2500;82000;NA;NA;"nord";"creux";"neige (AEP)";"total";22;"moyenne";7,86;102,6;11,9;"oui"
+"R7";2000;2260;50200;NA;8,4;"est";"pente";"neige (AEP)";"aucun";27;"forte";8,155;434;14,1;"oui"
+"R8";2006;2000;60000;10000;10;"nord-est";"butte";"neige (AEP)";"partiel";16,6666666666667;"moyenne";7,86666666666667;467;18,2;"non"
+"R9";2003;2360;48000;8000;7;"ouest";"pente";"neige (AEP)";"partiel";14;"douce";7,96;105,4;14,1333333333333;"partiel"
+"R10";2002;2400;42830;NA;9,5;"nord";"pente";"neige (AEP)";"aucun";20,6666666666667;"moyenne";7,71;210;8,86666666666667;"partiel"
+"R11";2006;1290;15000;NA;NA;"ouest";"pente";"neige (AEP)";"partiel";30;"forte";8,345;230,5;18,025;NA
+"R12";2011;1580;45000;NA;NA;"sud-ouest";"bas_de_pente";"multi-usages";"total";19;"moyenne";8,395;269,666666666667;15,6833333333333;"oui"
+"R13";2004;2700;36000;NA;NA;"nord-ouest";"pente";"neige (AEP)";"total";31;"forte";7,495;112;4,85;"oui"
+"R14";2018;2290;78000;12130;8,4;"nord";"pente";"neige (AEP)";"total";24;"moyenne";7,76333333333333;43,3;6,9;"partiel"
+"R15";2019;2370;12000;NA;5;"est";"pente";"neige (AEP)";"total";24,5;"forte";8,1;157,25;17,55;"oui"
+"R16";2019;2410;307000;33000;13;"nord";"pente";"multi-usages";"total";13,3333333333333;"moyenne";8,12333333333333;139,733333333333;16,1333333333333;"oui"
+"R17";1993;1790;45000;NA;NA;"nord-ouest";"bas_de_pente";"multi-usages";"aucun";33;"forte";8,23;125,9;14,05;"partiel"
+"R18";1998;1520;73000;10000;8;"nord";"plat";"multi-usages";"partiel";12;"douce";8,3625;211,35;15,2;"non"
+"R19";2003;2000;120000;NA;12;"nord-ouest";"creux";"multi-usages";"partiel";19,5;"forte";8,47;196,55;13,55;NA
+"R20";2009;2460;107000;20000;8;"nord";"butte";"multi-usages";"total";15,6666666666667;"moyenne";8,32666666666667;115,8;14,6666666666667;NA
+"R21";2021;1827;91700;NA;NA;"sud-ouest";"pente";"multi-usages";"total";23;"moyenne";8,20833333333333;59,1833333333333;16,0333333333333;"partiel"
+"R22";2002;2190;77140;12400;9,5;"nord-est";"pente";"neige (AEP)";"aucun";22;"moyenne";8,2;439;17;"partiel"
+"R23";2019;1700;42000;NA;NA;"nord";"pente";"neige (AEP)";"total";25;"moyenne";8,15;85,9;13,9;"oui"
+"R24";2007;2535;42000;NA;NA;"ouest";"butte";"neige (AEP)";"total";26;"forte";7,84;212,25;11,4;"oui"
+"R25";2017;2000;110000;22000;8,5;"sud-ouest";"plat";"neige (AEP)";"total";17,3333333333333;"moyenne";7,70333333333333;57,8;13,0333333333333;"oui"
+"R26";1999;1450;10500;2800;5,75;"nord";"pente";"neige (AEP)";"partiel";28,3333333333333;"forte";8,88666666666667;163,733333333333;10,8;NA
+"R27";2002;2120;20000;4000;8;"est";"pente";"neige (AEP)";"aucun";27;"forte";8,375;207,5;15,25;NA
+"R28";2007;2100;47000;9800;9;"nord-est";"pente";"multi-usages";"partiel";22;"moyenne";9,045;143,45;15,75;NA
+"R29";1999;1960;59000;7300;11;"ouest";"plat";"multi-usages";"partiel";25,6666666666667;"forte";8,13666666666667;1131,66666666667;16,5;NA
